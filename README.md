@@ -6,10 +6,10 @@ The code is developed in Python 2.7
 
 It involves following python libraries -
 
-Tkinter 
-RPi.GPIO
-time
-serial
-SimpleCV
-pygame
+Tkinter, 
+RPi.GPIO,
+time,
+serial,
+SimpleCV,
+pygame,
 PIL
