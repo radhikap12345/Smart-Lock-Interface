@@ -1,3 +1,5 @@
+## Stanford ME310 - Product interface
+
 ## Import Libraries and functions from other .py files
 import Tkinter as tk # For the actual interface widows display
 import RPi.GPIO as GPIO # for Raspberry pi pins control
